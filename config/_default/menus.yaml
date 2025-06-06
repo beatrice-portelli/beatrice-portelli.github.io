@@ -13,6 +13,14 @@ main:
   - name: Publications
     url: publications/
     weight: 30
+  - name: Utils
+    url: utils/
+    identifier: utils
+    weight: 40
+  - name: Lost and Found
+    parent: utils
+    url: utils/lost_and_found
+    weight: 10
   
   # - name: News
   #   url: news/
