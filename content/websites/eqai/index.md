@@ -1,5 +1,5 @@
 ---
-title: EQAI 2022-2025
+title: EQAI 2022-2026
 date: 2022-12-10
 
 image:
@@ -7,7 +7,7 @@ image:
 
 ---
 
-Website for the European Summer School on Quantum AI - EQAI, from 2022 to 2025.
+Website for the European Summer School on Quantum AI - EQAI, from 2022 to 2026.
 {style="color: gray; font-size: smaller;"}
 
 <!--more-->
@@ -18,7 +18,7 @@ Website for the European Summer School on Quantum AI - EQAI, from 2022 to 2025.
 · **html**
 · **css**
 
-I've been part of the local committee of EQAI, European Summer School on Quantum AI, since its [first edition in 2022](https://eqai.eu/eqai-2022/organizers/) and have designed its official website. The summer school is held yearly, between June and Semptember, and I've been developing and maintaining the official website from 2022 to 2025.
+I've been part of the local committee of EQAI, European Summer School on Quantum AI, since its [first edition in 2022](https://eqai.eu/eqai-2022/organizers/) and have designed its official website. The summer school is held yearly, between June and Semptember, and I've been developing and maintaining the official website from 2022 to 2026.
 
 ![](/featured.png)
 
